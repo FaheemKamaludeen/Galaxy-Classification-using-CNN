@@ -1,4 +1,4 @@
-# Galaxy Classification using Convolutional Nueral Networks
+# Galaxy Classification using Convolutional Neural Networks
 Galaxy images are classified into Spiral or Elliptical galaxies with the use of Convolutional Neural Networks. Galaxies can be split into 3 categories which include
 Spiral, Elliptical and Irregular. Irregular Galaxies are ignored for this project because of the lack of data. Despite using only 20% of the data due to system 
 capabilities, an accuracy of 77% was achieved.
